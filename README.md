@@ -1,9 +1,9 @@
 #jquery charCount
 ##Simple dynamic character count for a textarea
 
-charCount indicate the user about how many chars are entered in a textarea.
-If the user go through a given limit, an error class can be appened to a container.
-If the user is close to the limit, a warning class can be appened to the counter.
+charCount indicates to the user how many chars he types in a textarea.
+If the user goes beyond a given limit, an error class can be added to a container.
+If the user is close to the limit, a warning class can be added to the counter.
 
 ##Usage
 
